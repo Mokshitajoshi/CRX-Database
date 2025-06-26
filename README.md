@@ -23,8 +23,7 @@ Welcome to **Coders Crux**, a full-stack application designed to streamline the 
   - [User Codeathon](#user-codeathon)
   - [Codeathon Submission](#codeathon-submission)
 - [Normalization Notes](#normalization-notes)
-- [Best Practices](#best-practices)
-- [License](#license)
+
 
 ---
 
