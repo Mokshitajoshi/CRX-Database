@@ -2,6 +2,8 @@
 
 Welcome to **Coders Crux**, a full-stack application designed to streamline the management of coding events, quizzes, hackathons, user profiles, and more. This document provides a detailed overview of the **PostgreSQL database schema** that powers the backend of the application.
 
+![ERD](./screenshots/ERD.png)
+
 ---
 
 ## 🗂️ Table of Contents
@@ -54,6 +56,8 @@ The schema is modular and normalized to support scalability and maintainability.
 
 Stores user information and credentials.
 
+![User Schema](./screenshots/User_schema.png)
+
 | Column          | Type        | Description                    |
 |-----------------|-------------|--------------------------------|
 | id              | BIGINT      | Primary Key                    |
@@ -74,6 +78,8 @@ Stores user information and credentials.
 ### ❓ Quiz Schema
 
 Represents a quiz with questions and metadata.
+
+![Quiz Schema](./screenshots/Quiz_Schema.png)
 
 | Column         | Type         | Description                   |
 |----------------|--------------|-------------------------------|
@@ -101,6 +107,8 @@ Stores answers submitted by users for quiz questions.
 ### 🏁 Hackathon
 
 Defines a hackathon event.
+
+![Hackathon Schema](./screenshots/Hackathon_Schema.png)
 
 | Column     | Type         | Description                   |
 |------------|--------------|-------------------------------|
@@ -167,6 +175,8 @@ Holds extended scoring and feedback.
 ### 🧪 Codeathon
 
 Defines a coding challenge event.
+
+![Codeathon Schema](./screenshots/Codeathon_Schema.png)
 
 | Column       | Type         | Description            |
 |--------------|--------------|------------------------|
