@@ -56,7 +56,7 @@ The schema is modular and normalized to support scalability and maintainability.
 
 Stores user information and credentials.
 
-![User Schema](Screenshots/User_schema.png)
+![User Schema](Screenshots/User_Schema.png)
 
 | Column          | Type        | Description                    |
 |-----------------|-------------|--------------------------------|
