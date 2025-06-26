@@ -1,4 +1,4 @@
-# 🧠 Coders Crux – Database Schema Documentation
+# Coders Crux – Database Schema Documentation
 
 Welcome to **Coders Crux**, a full-stack application designed to streamline the management of coding events, quizzes, hackathons, user profiles, and more. This document provides a detailed overview of the **PostgreSQL database schema** that powers the backend of the application.
 
